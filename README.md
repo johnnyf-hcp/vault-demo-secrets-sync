@@ -1,4 +1,4 @@
-# Demo of HashiCorp Vault Secret Sync Engine with AWS Secrets Manager
+# Demo of HashiCorp Vault Secret Sync Engine with AWS Secrets Manager, Azure Key Vault, and Google Secret Manager
 This is using a Jupyter notebook to execute the steps required.
 It assumes that you have HashiCorp Vault installed and configured on your side and also access to an AWS account.
 
